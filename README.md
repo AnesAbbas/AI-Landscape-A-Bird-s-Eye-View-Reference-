@@ -76,7 +76,8 @@ Large Language Models (LLM): Generative models that generate natural human langu
 
 ## 3- Selected Tools Shortlist
 
--	General Productivity: >!  Claude Code / Gemini CLI / OpenCode
+-	General Productivity: 
+>!  Claude Code / Gemini CLI / OpenCode
 -	Expert knowledge & Creative Writing: ChatGPT, OmniExpert
 -	Deep Grounded Research: Perplexity
 -	Knowledge Synthesis: NotebookLM, Eleven Reader
