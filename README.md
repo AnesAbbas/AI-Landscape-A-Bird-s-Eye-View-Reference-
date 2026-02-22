@@ -4,8 +4,6 @@
   AI-Landscape-A-Bird-s-Eye-View-Reference-
 </h1>
 
-![alt text](top-view.png)
-
 ## 1- Concepts and Terminology
 
 **Artificial Intelligence (AI):** Programs that mimic intelligent behavior
@@ -103,3 +101,6 @@ AI tools are just tools, in the era of AI, these are the skills worth improving 
 -	Thou shall teach others to use AI responsibly
 -	Thou shall re-visit these points frequently
 
+---
+
+![alt text](top-view.png)
