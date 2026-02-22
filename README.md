@@ -103,4 +103,6 @@ AI tools are just tools, in the era of AI, these are the skills worth improving 
 
 ---
 
-![alt text](top-view.png)
+<!-- ![alt text](top-view.png) -->
+
+<img src="top-view.png" width="100%" />
