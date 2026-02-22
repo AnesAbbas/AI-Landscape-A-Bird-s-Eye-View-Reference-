@@ -4,6 +4,8 @@
   AI-Landscape-A-Bird-s-Eye-View-Reference-
 </h1>
 
+![alt text](top-view.png)
+
 ## 1- Concepts and Terminology
 
 **Artificial Intelligence (AI):** Programs that mimic intelligent behavior
