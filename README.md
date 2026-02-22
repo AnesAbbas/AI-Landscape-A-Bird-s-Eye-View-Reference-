@@ -8,7 +8,8 @@
 
 **Artificial Intelligence (AI):** Programs that mimic intelligent behavior
 
-![alt text](ai-venn-diagram.png)
+<img src="ai-venn-diagram.png" width="100%" />
+
 
 **Machine Learning (ML):** AI Programs that learn from collected data 
 
@@ -16,14 +17,15 @@
 -	Output: Trained Mathematical Model
 -	Usecases: Prediction, Classification, Content generation, etc.
 
+<img src="linear-model.gif" width="100%" />
 
-![alt text](linear-model.gif)
 
 **Deep learning (DL):** Machine learning using artificial neural networks as a model
 
 An artificial neural network model (ANN) is a complex mathematical function made up of nested connected functions simulating neurons in a human  brain
 
-![alt text](neural-network-layers.png)
+<img src="neural-network-layers.png" width="100%" />
+
 <!-- ![alt text](neurons-perceptrons.png) -->
 
 <!-- ![alt text](neural-network.gif) -->
@@ -44,7 +46,8 @@ Large Language Models (LLM): Generative models that generate natural human langu
 -	AI workflow: involves AI, e.g. on every email received, summarize it using ChatGPT, send summary to WhatsApp 
 -	AI agentic workflow:  involves and AI agent, e.g. on every email received, AI agent takes any actions needed, send notification to WhatsApp
 
-![alt text](agentic-workflow-automation.png)
+
+<img src="agentic-workflow-automation.png" width="100%" />
 
 ## 2 - Prompting and Prompt Engineering 
 
@@ -102,7 +105,5 @@ AI tools are just tools, in the era of AI, these are the skills worth improving 
 -	Thou shall re-visit these points frequently
 
 ---
-
-<!-- ![alt text](top-view.png) -->
 
 <img src="top-view.png" width="100%" />
