@@ -3,6 +3,8 @@
   <img src="bird-logo.png" alt="Logo" width="40" style="vertical-align: middle; margin-right: 10px;" />
   AI-Landscape-A-Bird-s-Eye-View-Reference-
 </h1>
+Copyright © 2026 Anes Abbas. All rights reserved.
+
 
 ## 1- Concepts and Terminology
 
