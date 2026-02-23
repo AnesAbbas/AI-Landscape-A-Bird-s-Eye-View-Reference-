@@ -12,7 +12,9 @@ Copyright © 2026 Anes Abbas. All rights reserved.
 
 <audio controls>
   <source src="https://ai-landscape.netlify.app/the-ai-landscape-reference-podcast.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
+
+🎧 [Listen to the podcast](https://ai-landscape.netlify.app/the-ai-landscape-reference-podcast.mp3)
+
 </audio>
 
 ## 1- Concepts and Terminology
