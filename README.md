@@ -13,7 +13,10 @@ Copyright © 2026 Anes Abbas. All rights reserved.
 <audio controls>
   <source src="https://ai-landscape.netlify.app/the-ai-landscape-reference-podcast.mp3" type="audio/mpeg">
 
-🎧 [Listen to the podcast](https://ai-landscape.netlify.app/the-ai-landscape-reference-podcast.mp3)
+🎧 <a href="https://ai-landscape.netlify.app/the-ai-landscape-reference-podcast.mp3" target="_blank" rel="noopener noreferrer">
+isten to the podcast
+
+</a>
 
 </audio>
 
