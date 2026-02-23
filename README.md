@@ -10,7 +10,10 @@ Copyright © 2026 Anes Abbas. All rights reserved.
 
 > **Podcast Verison:** The below podcast has been generated using Google NotebookLM and may not stay true to the text. i.e. it could inculde some additions, omissions, and inaccuracies.
 
-<audio controls src="the-ai-landscape-reference-podcast.mp3" title="Title"></audio>
+<audio controls>
+  <source src="./the-ai-landscape-reference-podcast.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 ## 1- Concepts and Terminology
 
