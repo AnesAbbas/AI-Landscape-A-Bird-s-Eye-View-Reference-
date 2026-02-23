@@ -6,6 +6,12 @@
 Copyright © 2026 Anes Abbas. All rights reserved.
 
 
+<br/>
+
+
+
+<audio controls src="the-ai-landscape-reference-podcast.m4a" title="Title" loop></audio>
+
 ## 1- Concepts and Terminology
 
 **Artificial Intelligence (AI):** Programs that mimic intelligent behavior
