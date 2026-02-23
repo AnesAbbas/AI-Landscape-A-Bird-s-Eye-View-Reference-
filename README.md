@@ -8,9 +8,11 @@ Copyright © 2026 Anes Abbas. All rights reserved.
 
 <br/>
 
+<audio controls>
+  <source src="the-ai-landscape-reference-podcast.m4a" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
 
-
-<audio controls src="the-ai-landscape-reference-podcast.m4a" title="Title" loop></audio>
 
 ## 1- Concepts and Terminology
 
