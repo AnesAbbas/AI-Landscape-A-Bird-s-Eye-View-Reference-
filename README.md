@@ -7,9 +7,7 @@ Copyright © 2026 Anes Abbas. All rights reserved.
 
 
 <br/>
-<br/>
 
-> **Podcast Verison:** The below podcast has been generated using Google NotebookLM and may not stay true to the text. i.e. it could inculde some additions, omissions, and inaccuracies.
 
 <audio controls>
   <source src="https://ai-landscape.netlify.app/the-ai-landscape-reference-podcast.mp3" type="audio/mpeg">
@@ -18,6 +16,9 @@ Copyright © 2026 Anes Abbas. All rights reserved.
 
 </audio>
 
+<br/>
+
+> **Podcast Verison:** The below podcast has been generated using Google NotebookLM and may not stay true to the text. i.e. it could inculde some additions, omissions, and inaccuracies.
 ## 1- Concepts and Terminology
 
 **Artificial Intelligence (AI):** Programs that mimic intelligent behavior
