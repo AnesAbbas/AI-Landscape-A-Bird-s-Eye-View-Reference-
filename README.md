@@ -116,9 +116,10 @@ AI tools are just tools, in the era of AI, these are the skills worth improving 
 
 -	Research skills
 -	Critical thinking skills
--	Creative thinking skills
 -	Holistic thinking skills
 -	Organization skills
+- Communication skills
+-	Creative thinking skills
 
 ## 5- AI Responsible Use
 
